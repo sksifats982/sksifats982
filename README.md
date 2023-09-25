@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-https://www.facebook.com/mdanikhasan.polok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+https://www.facebook.com/mdanikhasan.polok is a ✨ special ✨ repository because its `README.https://www.facebook.com/mdanikhasan.polok (this file) appears on your GitHub profile.
+You can click the review password change k to take a look at your changes.
 --->
